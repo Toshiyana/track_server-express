@@ -11,3 +11,6 @@ dist
 .Spotlight-V100
 .DS_Store
 .Trashes
+
+# VSCode
+.vscode
